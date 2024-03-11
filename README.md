@@ -55,6 +55,13 @@ The Boston Housing dataset is a classic dataset used in regression analysis and 
 
 By performing EDA on the Boston Housing dataset, analysts can gain insights into the relationships between different features and the target variable, identify patterns, and select appropriate features for building predictive models.
 
+# Data Analysis:
+- Find out the average number of rooms (‘rooms’ column) per dwelling for each category of ‘medv’ (Low, Medium, High).
+- Find out the percentage of houses that bound the Charles River.
+# NumPy Operations: 
+- Convert the ‘age’ column (proportion of owner-occupied units built prior to 1940) from the DataFrame to a NumPy array and perform the following operations:
+- Compute the mean and standard deviation.
+- Normalize the array.
 
 # CONCLUSION :
 
