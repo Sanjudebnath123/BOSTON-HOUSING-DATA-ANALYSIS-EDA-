@@ -1,12 +1,10 @@
 <h1 align="center">BOSTON HOUSING DATA ANALYSIS </h1>
 
-# TOOLS USED :
-<p align="left" <a target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/60ef9d8e7273373857bd6fb871678ef4fc5367433589be0da330d6972a305bda/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667" width="100" height="100" /> </a> 
-<a align="right" <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="100" height="100" /> </a> </p>
+<p align="center" <a target="_blank" rel="noreferrer"> <img src="https://images.pexels.com/photos/3397975/pexels-photo-3397975.jpeg?auto=compress&cs=tinysrgb&w=600" width="800" height="500" /> </a> 
 
 
-# DESCRIPTION :
-
+ DESCRIPTION :
+ -
 The Boston Housing dataset is a classic dataset used in regression analysis and predictive modeling. It contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts. The dataset was originally published in 1978 and contains 506 observations with 14 attributes. Each entry represents aggregated data about various features for houses in different Boston neighborhoods.
 
 - Here's a brief description of the attributes in the dataset:
@@ -39,7 +37,8 @@ The Boston Housing dataset is a classic dataset used in regression analysis and 
 
 14.MEDV: Median value of owner-occupied homes in $1000s (the target variable).
 
-# Exploratory Data Analysis (EDA) on the Boston Housing dataset typically involves the following steps:
+Exploratory Data Analysis (EDA) on the Boston Housing dataset typically involves the following steps:
+-
 
 - Data Inspection: Checking the first few rows of the dataset, data types, and missing values.
   
@@ -55,15 +54,21 @@ The Boston Housing dataset is a classic dataset used in regression analysis and 
 
 By performing EDA on the Boston Housing dataset, analysts can gain insights into the relationships between different features and the target variable, identify patterns, and select appropriate features for building predictive models.
 
-# Data Analysis:
+Data Analysis:
+-
+
 - Find out the average number of rooms (‘rooms’ column) per dwelling for each category of ‘medv’ (Low, Medium, High).
 - Find out the percentage of houses that bound the Charles River.
-# NumPy Operations: 
+  
+ NumPy Operations:
+-
+
 - Convert the ‘age’ column (proportion of owner-occupied units built prior to 1940) from the DataFrame to a NumPy array and perform the following operations:
 - Compute the mean and standard deviation.
 - Normalize the array.
 
-# CONCLUSION :
+CONCLUSION :
+-
 
 Based on the exploratory data analysis (EDA) of the Boston housing data, we can draw several conclusions:
 
@@ -80,7 +85,14 @@ Based on the exploratory data analysis (EDA) of the Boston housing data, we can 
 
 Overall, EDA provides a comprehensive understanding of the Boston housing dataset, enabling us to make informed decisions, identify patterns and trends, and derive actionable insights for various stakeholders, including real estate investors, policymakers, and urban planners.
 
-## Created By
+TOOLS USED :
+-
+
+<p align="left" <a target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/60ef9d8e7273373857bd6fb871678ef4fc5367433589be0da330d6972a305bda/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667" width="100" height="100" /> </a> 
+<a align="right" <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="100" height="100" /> </a> </p>
+
+Created By
+-
 
 - [@Sanjudebnath123](https://github.com/Sanjudebnath123)
 
